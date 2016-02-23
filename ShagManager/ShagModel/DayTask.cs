@@ -21,5 +21,6 @@ namespace ShagModel
         public DateTime DateTo { get; set; }
         public DateTime DateFinish { get; set; }
         public virtual DayTaskStatus Status { get; set; }
+        public virtual DayTaskType Type { get; set; }
     }
 }

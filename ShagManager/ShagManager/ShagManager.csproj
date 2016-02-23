@@ -51,6 +51,15 @@
   <ItemGroup>
     <Compile Include="Configuration\ServiceInitializer.cs" />
     <Compile Include="ManagerContext.cs" />
+    <Compile Include="Migrations\201602231338102_InitialCreate.cs" />
+    <Compile Include="Migrations\201602231338102_InitialCreate.Designer.cs">
+      <DependentUpon>201602231338102_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201602231341164_fdata.cs" />
+    <Compile Include="Migrations\201602231341164_fdata.Designer.cs">
+      <DependentUpon>201602231341164_fdata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -65,6 +74,14 @@
       <Project>{b7fae627-83a4-47d6-b56d-89deafc69aea}</Project>
       <Name>ShagModel</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201602231338102_InitialCreate.resx">
+      <DependentUpon>201602231338102_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201602231341164_fdata.resx">
+      <DependentUpon>201602231341164_fdata.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
