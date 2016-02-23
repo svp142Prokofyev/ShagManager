@@ -1,0 +1,10 @@
+C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagData\obj\Debug\ShagData.csprojResolveAssemblyReference.cache
+C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagData\bin\Debug\ShagData.dll.config
+C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagData\bin\Debug\ShagData.dll
+C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagData\bin\Debug\ShagData.pdb
+C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagData\bin\Debug\EntityFramework.dll
+C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagData\bin\Debug\EntityFramework.xml
+C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagData\obj\Debug\ShagData.dll
+C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagData\obj\Debug\ShagData.pdb

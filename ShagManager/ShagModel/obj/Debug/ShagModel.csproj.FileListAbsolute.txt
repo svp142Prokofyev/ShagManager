@@ -1,0 +1,6 @@
+C:\Users\Lighto\Documents\GitHub\ShagManager\ShagManager\ShagModel\obj\Debug\ShagModel.csprojResolveAssemblyReference.cache
+C:\Users\Lighto\Documents\GitHub\ShagManager\ShagManager\ShagModel\bin\Debug\ShagModel.dll.config
+C:\Users\Lighto\Documents\GitHub\ShagManager\ShagManager\ShagModel\bin\Debug\ShagModel.dll
+C:\Users\Lighto\Documents\GitHub\ShagManager\ShagManager\ShagModel\bin\Debug\ShagModel.pdb
+C:\Users\Lighto\Documents\GitHub\ShagManager\ShagManager\ShagModel\obj\Debug\ShagModel.dll
+C:\Users\Lighto\Documents\GitHub\ShagManager\ShagManager\ShagModel\obj\Debug\ShagModel.pdb

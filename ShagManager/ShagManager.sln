@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShagManager", "ShagManager\ShagManager.csproj", "{94D15998-D9C7-45D1-B806-ABB5E328AA38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShagCheck", "ShagCheck\ShagCheck.csproj", "{199F3CEE-1BFC-469D-A157-965A3DA47BB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShagModel", "ShagModel\ShagModel.csproj", "{B7FAE627-83A4-47D6-B56D-89DEAFC69AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94D15998-D9C7-45D1-B806-ABB5E328AA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D15998-D9C7-45D1-B806-ABB5E328AA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D15998-D9C7-45D1-B806-ABB5E328AA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D15998-D9C7-45D1-B806-ABB5E328AA38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{199F3CEE-1BFC-469D-A157-965A3DA47BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199F3CEE-1BFC-469D-A157-965A3DA47BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199F3CEE-1BFC-469D-A157-965A3DA47BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199F3CEE-1BFC-469D-A157-965A3DA47BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7FAE627-83A4-47D6-B56D-89DEAFC69AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FAE627-83A4-47D6-B56D-89DEAFC69AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FAE627-83A4-47D6-B56D-89DEAFC69AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FAE627-83A4-47D6-B56D-89DEAFC69AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
