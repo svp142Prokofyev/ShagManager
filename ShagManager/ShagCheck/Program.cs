@@ -20,7 +20,7 @@ namespace ShagCheck
 
             Console.WriteLine("Complete");
 
-
+            Console.WriteLine("Complete");
 
             Console.ReadLine();
         }
