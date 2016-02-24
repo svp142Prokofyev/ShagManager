@@ -11,7 +11,9 @@ namespace ShagModel
     {
         [Key]
         public int Id { get; set; }
-        //открытая, закрытая, просроченная
+        //открытая, закрытая, просроченная, отменен
         public string Name { get; set; }
+        //если статус отменен, обязательно указать причину
+        public string Reason { get; set; }
     }
 }

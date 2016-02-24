@@ -11,7 +11,7 @@ namespace ShagManager
     public class ManagerContext : DbContext
     {
         public ManagerContext() :
-            base(@"data source=.\SQLDB;
+            base(@"data source=.\SQLEXPRESS;
                    initial catalog=ManagementDB;
                    integrated security=True;
                    MultipleActiveResultSets=True;
@@ -19,6 +19,7 @@ namespace ShagManager
         {
 
         }
+
         //ОСНОВНЫЕ СУЩНОСТИ
         public DbSet<Student> Students { get; set; }
         public DbSet<Parent> Parents { get; set; }

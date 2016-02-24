@@ -3,9 +3,7 @@ C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\Sha
 C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\ShagCheck.pdb
 C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\EntityFramework.dll
 C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\ShagData.dll
 C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\ShagManager.dll
-C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\ShagData.pdb
 C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\ShagManager.pdb
 C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\EntityFramework.xml
 C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\EntityFramework.SqlServer.xml
@@ -26,3 +24,5 @@ C:\Users\Lighto\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\Sha
 C:\Users\Lighto\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\ShagModel.dll
 C:\Users\Lighto\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\ShagManager.pdb
 C:\Users\Lighto\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\ShagModel.pdb
+C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\ShagModel.dll
+C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\ShagModel.pdb

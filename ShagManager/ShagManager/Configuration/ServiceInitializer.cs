@@ -11,6 +11,7 @@ namespace ShagManager.Configuration
     {
         public void InitializeDatabase(ManagerContext context)
         {
+            //удалить если имеется, создать заново
             if (context.Database.Exists())
                 context.Database.Delete();
             context.Database.Create();
