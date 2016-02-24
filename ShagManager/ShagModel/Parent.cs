@@ -18,5 +18,7 @@ namespace ShagModel
         public int Id { get; set; }
         public Person Person { get; set; }
         public ICollection<Student> Students { get; set; }
+        //юридическое лицо, физическое лицо
+        public bool isIndividual { get; set; }
     }
 }
