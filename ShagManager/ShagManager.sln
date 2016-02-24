@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShagAdmin", "ShagAdmin\Shag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShagClient", "ShagClient\ShagClient.csproj", "{17AA7369-3F79-4A4E-8F94-C358C4A2E8A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataValidate", "DataValidate\DataValidate.csproj", "{CEF893E0-5ED5-447F-9714-2E67481037D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{17AA7369-3F79-4A4E-8F94-C358C4A2E8A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17AA7369-3F79-4A4E-8F94-C358C4A2E8A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17AA7369-3F79-4A4E-8F94-C358C4A2E8A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF893E0-5ED5-447F-9714-2E67481037D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF893E0-5ED5-447F-9714-2E67481037D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF893E0-5ED5-447F-9714-2E67481037D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF893E0-5ED5-447F-9714-2E67481037D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
