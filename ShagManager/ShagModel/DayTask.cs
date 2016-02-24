@@ -22,5 +22,8 @@ namespace ShagModel
         public DateTime DateFinish { get; set; }
         public virtual DayTaskStatus Status { get; set; }
         public virtual DayTaskType Type { get; set; }
+        //отношения родительских и дочерних задач
+        public virtual DayTask ParentTask { get; set; }
+        public virtual ICollection<DayTask> ChildTask { get; set; }
     }
 }

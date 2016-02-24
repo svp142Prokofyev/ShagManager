@@ -28,3 +28,4 @@ C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagManager\bin\Debug\S
 C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagManager\obj\Debug\ShagManager.Migrations.InitialCreate.resources
 C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagManager\obj\Debug\ShagManager.Migrations.fdata.resources
 C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagManager\obj\Debug\ShagManager.csproj.GenerateResource.Cache
+C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagManager\obj\Debug\ShagManager.Migrations.sdata.resources
