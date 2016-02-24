@@ -26,3 +26,6 @@ C:\Users\Lighto\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\Sha
 C:\Users\Lighto\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\ShagModel.pdb
 C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\ShagModel.dll
 C:\Users\ktoloc\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\ShagModel.pdb
+C:\Users\ЕртаевА\Documents\GitHub\ShagManager\ShagManager\ShagCheck\bin\Debug\ShagCheck.exe.config
+C:\Users\ЕртаевА\Documents\GitHub\ShagManager\ShagManager\ShagCheck\obj\Debug\ShagCheck.exe
+C:\Users\ЕртаевА\Documents\GitHub\ShagManager\ShagManager\ShagCheck\obj\Debug\ShagCheck.pdb
